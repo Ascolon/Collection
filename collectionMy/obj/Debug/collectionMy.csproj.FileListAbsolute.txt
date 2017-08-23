@@ -1,0 +1,7 @@
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\collectionMy\collectionMy\bin\Debug\collectionMy.exe.config
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\collectionMy\collectionMy\bin\Debug\collectionMy.exe
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\collectionMy\collectionMy\bin\Debug\collectionMy.pdb
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\collectionMy\collectionMy\obj\Debug\collectionMy.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\collectionMy\collectionMy\obj\Debug\collectionMy.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\collectionMy\collectionMy\obj\Debug\collectionMy.exe
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\collectionMy\collectionMy\obj\Debug\collectionMy.pdb
